@@ -41,7 +41,7 @@ body{
     text-align: center;
     margin: 0; 
     padding: 0; 
-    color: white;
+    color: rgb(231, 231, 231);
     align-items: center;
     font-weight: 300;
 }
@@ -50,7 +50,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(88, 181, 215);
+    background-color: rgb(49, 158, 197);
     width: 362px;
     height: 95px;
     
@@ -58,7 +58,7 @@ body{
 .valor h4 {
     margin: 0;
     font-size: 24px;
-    color: white;
+    color: rgb(223, 223, 223);
     font-weight: 10;
     font-size: 50px;
 }

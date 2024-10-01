@@ -1,0 +1,33 @@
+.tabela{
+    text-align: center;
+    background-color: rgb(233, 233, 233);
+    border-color: rgba(241, 239, 239, 0.171);
+    box-shadow: rgb(0, 0, 0) ;
+
+}
+.cinza{
+    background-color: rgb(190, 192, 192);
+    border-color: (190, 192, 192);
+    padding-inline-start: 30px;
+    padding-inline-end: 30px;
+}
+.blue{
+    background-color: rgb(162, 209, 240);
+    padding-inline-start: 30px;
+    padding-inline-end: 30px;
+}
+.green{
+    background-color: rgb(198, 255, 210);
+    padding-inline-start: 30px;
+    padding-inline-end: 30px;
+}
+.roxo{
+    background-color: rgb(228, 204, 250);
+    padding-inline-start: 30px;
+    padding-inline-end: 30px;
+}
+.laranja{
+    background-color: rgb(255, 190, 167);
+    padding-inline-start: 30px;
+    padding-inline-end: 30px;
+}

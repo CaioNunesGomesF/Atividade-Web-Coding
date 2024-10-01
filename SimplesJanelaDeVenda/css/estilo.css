@@ -1,0 +1,133 @@
+body{
+    
+    margin: 0px;
+    font-family: 'Inter';
+
+}
+.alinharCentro{
+    text-align: center;
+    
+}
+#um{
+    font-size: 60px;
+    margin-bottom: 80px;
+}
+#dois{
+    font-size: 50px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    
+}
+.card{
+    width: 362px;
+    height: 500px;
+    background-color: rgb(190, 190, 190);
+    flex-direction: row ;
+    border-radius: 10px;
+    box-shadow: 0px 2px 20px black;
+    margin-left: 100px;
+    
+    
+}
+.card h1{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: grid;
+    background-color: rgb(58, 58, 58);
+    width: 362px;
+    height: 72px;
+    text-align: center;
+    margin: 0; 
+    padding: 0; 
+    color: white;
+    align-items: center;
+    font-weight: 300;
+}
+.valor{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(88, 181, 215);
+    width: 362px;
+    height: 95px;
+    
+}
+.valor h4 {
+    margin: 0;
+    font-size: 24px;
+    color: white;
+    font-weight: 10;
+    font-size: 50px;
+}
+.valor p {
+    margin-left: 10px;
+    margin-top: 40px;
+    font-size: 18px;
+    color: rgb(223, 223, 223);
+}
+.memoria{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.memoria h2{
+    margin: 0;
+    padding: 0;
+    margin-top:10px;
+    font-size: 25px;
+}
+.memoria p{
+    margin: 0;
+    padding: 10px;
+    color: rgb(80, 79, 79);
+    font-size: 28px;
+}
+.card ul{
+    margin-left: 40px;
+    font-size: 20px;
+    align-items: center;
+}
+.btn{
+    display: flex;
+    margin-top: 10px;
+}
+.card button{
+    height: 60px;
+    background: linear-gradient(to bottom, rgb(82, 169, 240),rgb(7, 7, 190));
+    padding: 0;
+    margin: 0;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: 600px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+.card button img{
+    background: linear-gradient(to bottom, rgb(24, 149, 233), rgb(0, 19, 129));
+    width: 60px;
+    height: 60px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-left: 16px;
+    padding-right: 10px;
+    
+    
+}
+.card button p{
+    padding: 0;
+    margin: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+    
+}
